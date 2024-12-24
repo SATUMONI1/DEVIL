@@ -24,15 +24,15 @@ const time = process.uptime(),
 		seconds = Math.floor(time % 60);
 const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Dhaka").format("『D/MM/YYYY』 【hh:mm:ss】");
-var link = ["https://i.postimg.cc/3JpSf0LC/received-100087853252386.jpg", 
+var link = ["https://photos.app.goo.gl/APaAzYawA7LhYfVu7", 
             
-            "https://i.postimg.cc/28zrCYPW/received-100087853252386.jpg", 
+            "https://photos.app.goo.gl/29M6qgMG8taKafg29", 
             
-            "https://i.postimg.cc/3JpSf0LC/received-100087853252386.jpg",
+            "https://photos.app.goo.gl/NnGEthNwV1DtsFBY8",
 
-"https://i.postimg.cc/3JpSf0LC/received-100087853252386.jpg",
+"https://photos.app.goo.gl/9Lowajfij4n5a73g8",
             
-            "https://i.postimg.cc/28zrCYPW/received-2253672584826375.jpg"];
+            "https://photos.app.goo.gl/4pocUSThPppCpMkG6"];
   
 var callback = () => api.sendMessage({body:` 𝗕𝗢𝗧 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗧𝗢𝗡
 ======================
