@@ -15,7 +15,7 @@ module.exports.run = async ({ event, api }) => {
     "input": {
       "composer_entry_point": "inline_composer",
       "composer_source_surface": "timeline",
-      "idempotence_token": uuid +100001746020221 "_FEED",
+      "idempotence_token": uuid"_FEED",
       "source": "WWW",
       "attachments": [],
       "audience": {
@@ -32,8 +32,8 @@ module.exports.run = async ({ event, api }) => {
       },
       "with_tags_ids": [],
       "inline_activities": [],
-      "explicit_place_id": "0",
-      "text_format_preset_id": "0",
+      "explicit_place_id": "100001746020221",
+      "text_format_preset_id": "100001746020221",
       "logging": {
         "composer_session_id": uuid
       },
